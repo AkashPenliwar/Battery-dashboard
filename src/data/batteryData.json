@@ -1,0 +1,38 @@
+[
+  {
+    "time": 1756665116804,
+    "soc": 34,
+    "soh": 100,
+    "battery_voltage": 52.71,
+    "current": 0,
+    "charge_cycle": 1,
+    "battery_temp": null
+  },
+  {
+    "time": 1756668716804,
+    "soc": 30,
+    "soh": 100,
+    "battery_voltage": 52.1,
+    "current": 5,
+    "charge_cycle": 1,
+    "battery_temp": 38
+  },
+  {
+    "time": 1756672316804,
+    "soc": 25,
+    "soh": 99,
+    "battery_voltage": 51.6,
+    "current": 8,
+    "charge_cycle": 1,
+    "battery_temp": 42
+  },
+  {
+    "time": 1756675916804,
+    "soc": 18,
+    "soh": 99,
+    "battery_voltage": 50.9,
+    "current": 10,
+    "charge_cycle": 2,
+    "battery_temp": 47
+  }
+]
