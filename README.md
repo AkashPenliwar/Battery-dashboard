@@ -31,6 +31,26 @@ The dashboard updates automatically via **WebSockets** using **Socket.io**, prov
 ---
 
 ## Screenshots
+## Screenshots
+
+### 1. 
+![Screenshot 1](src/utils/Screenshots/sc1.png)
+
+### 2. 
+![Screenshot 2](src/utils/Screenshots/sc2.png)
+
+### 3. 
+![Screenshot 3](src/utils/Screenshots/sc3.png)
+
+### 4. 
+![Screenshot 4](src/utils/Screenshots/sc4.png)
+
+### 5. 
+![Screenshot 5](src/utils/Screenshots/sc5.png)
+
+### 6. 
+![Screenshot 6](src/utils/Screenshots/sc6.png)
+
 
 
 
